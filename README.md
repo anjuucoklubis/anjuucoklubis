@@ -5,10 +5,10 @@ And then , I'm sory but this part of my repository is private,
 You can view my repository is public. Happy Fun ✨
 
 My Project 
-1. https://anjuucoklubis.github.io/anjulubisss.github.io/
+1. My Project 1st https://anjuucoklubis.github.io/anjulubisss.github.io/
 ![My Portfolio OLD _ Anju Lubis](https://user-images.githubusercontent.com/78084093/151660917-60483b23-b1a1-4e64-b609-e8735c499519.png)
 
-2. https://anjuucoklubis.github.io/anjulubis.github.io/
+2. My Project 2nd https://anjuucoklubis.github.io/anjulubis.github.io/
 ![My Portfolio 2nd _ Anju Lubis](https://user-images.githubusercontent.com/78084093/151660958-d46354f4-0438-49f3-b5d3-76d7751b5a01.png)
 <!--
 **anjuucoklubis/anjuucoklubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
