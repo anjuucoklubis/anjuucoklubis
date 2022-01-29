@@ -1,8 +1,9 @@
 ### Hi there 👋
-My Name Anju Lubis, I am a 3rd year student from Del Institute of Technology majoring in Information Systems.
+My Name Anju Lubis 😄 , I am a 3rd year student from Del Institute of Technology majoring in Information Systems.
 I'am focus on the field of web develoment and web design.
 And then , I'm sory but this part of my repository is private,
-You can view my repository is public. Happy Fun ✨
+You can only see my public repository⚡. 
+Happy Fun ✨
 
 My Project 
 1. My Project 1st https://anjuucoklubis.github.io/anjulubisss.github.io/
