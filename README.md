@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My Name Anju Lubis, I am a 3rd year student from Del Institute of Technology majoring in Information Systems.
 <!--
 **anjuucoklubis/anjuucoklubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
