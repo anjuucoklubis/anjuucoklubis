@@ -1,6 +1,8 @@
 ### Hi there 👋
 My Name Anju Lubis, I am a 3rd year student from Del Institute of Technology majoring in Information Systems.
-I'am focus on the field of web develoment and web design
+I'am focus on the field of web develoment and web design.
+And then , I'm sory but this part of my repository is private,
+You can view my repository is public. Happy Fun ✨
 <!--
 **anjuucoklubis/anjuucoklubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
