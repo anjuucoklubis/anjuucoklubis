@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there, I'm [Anju Lubis][website] 👋 
 My Name Anju Lubis 😄 , I am a 3rd year student from Del Institute of Technology majoring in Information Systems.
 I'am focus on the field of web develoment and web design.
 And then , I'm sory but this part of my repository is private,
 You can only see my public repository⚡. 
 Happy Fun ✨
-
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
