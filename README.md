@@ -1,12 +1,12 @@
-### Hi there, I'm [Anju Lubis][website] 👋 
+## Hi there, I'm [Anju Lubis][website] 👋 
 
 I am a 3rd year student from Del Institute of Technology majoring in Information Systems.
 
-## About My Repository
+### About My Repository
 I'm sory but this part of my repository is private,
 You can only see my public repository⚡. 
 
-## Happy Fun
+### Happy Fun
 - 🌱 I'm currently studying web development 🤣
 - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love to draw and play piano 
