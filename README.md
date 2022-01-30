@@ -81,15 +81,15 @@ You can only see my public repository⚡.
 
 ###   My Project 
 
-1. My Project 1st https://anjuxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
-Notes:<br> 
+1. My Project 1st https://anjuxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <br> 
+Notes:
 -   Sorry, the Web access link doesn't exist because it's under development!
 -   Source code is private, not in repository!
 -   Yet perfect to support the web opened via PC/Leptop, Thanks!
 ![My Portfolio OLD _ Anju Lubis](https://user-images.githubusercontent.com/78084093/151660917-60483b23-b1a1-4e64-b609-e8735c499519.png)
 
-2. My Project 2nd https://anjuucoklubis.github.io/anjulubis.github.io/ 
-Notes: <br> 
+2. My Project 2nd https://anjuucoklubis.github.io/anjulubis.github.io/  <br> 
+Notes: 
 -   Source code is private, not in repository!
 -   Not yet perfect to support the web opened via mobile, to get a perfect web view you can access the web via PC/Laptop, Thanks!
 ![My Portfolio 2nd _ Anju Lubis](https://user-images.githubusercontent.com/78084093/151660958-d46354f4-0438-49f3-b5d3-76d7751b5a01.png)
