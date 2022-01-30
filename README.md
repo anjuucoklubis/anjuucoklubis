@@ -1,9 +1,6 @@
 ### Hi there, I'm [Anju Lubis][website] 👋 
 
 I am a 3rd year student from Del Institute of Technology majoring in Information Systems.
-I'am focus on the field of web develoment and web design.
-And then , I'm sory but this part of my repository is private,
-You can only see my public repository⚡. 
 
 ## About My Repository
 I'm sory but this part of my repository is private,
