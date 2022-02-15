@@ -9,7 +9,7 @@ You can only see my public repository⚡.
 ### Happy Fun
 - 🌱 I'm currently studying web development 🤣
 - 👯 I’m looking to collaborate with other web developers
-- ⚡ Fun fact: I love to draw and play piano 
+- ⚡ Fun fact: I love to play music example is play a piano 😄
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)  -->
 
