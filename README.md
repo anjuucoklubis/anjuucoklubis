@@ -10,7 +10,8 @@ I'm sory but this part of my repository is private,
 You can only see my public repository⚡. 
 
 ### Happy Fun
-- 🌱 I'm currently studying web development 🤣
+- 🌱 I'm currently studying 
+<!-- - web development 🤣 -->
 <!-- - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love to play music example is play a piano 😄 -->
 - 🔭 My Portfolio [Anju Lubis Portfolio](https://anjulubis.000webhostapp.com/)
