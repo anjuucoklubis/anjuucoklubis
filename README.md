@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anju Lubis</h1>
-<h3 align="center">I am a 3rd year student from Del Institute of Technology majoring in Information Systems.</h3>
+<!-- <h3 align="center">I am a 3rd year student from Del Institute of Technology majoring in Information Systems.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjuucoklubis&label=Profile%20views&color=0e75b6&style=flat" alt="anjuucoklubis" /> </p>
 
@@ -11,8 +11,8 @@ You can only see my public repository⚡.
 
 ### Happy Fun
 - 🌱 I'm currently studying web development 🤣
-- 👯 I’m looking to collaborate with other web developers
-- ⚡ Fun fact: I love to play music example is play a piano 😄
+<!-- - 👯 I’m looking to collaborate with other web developers
+- ⚡ Fun fact: I love to play music example is play a piano 😄 -->
 - 🔭 My Portfolio [Anju Lubis Portfolio](https://anjulubis.000webhostapp.com/)
 - 📫 How to reach me **anjuucoklubis@gmail.com**
 
