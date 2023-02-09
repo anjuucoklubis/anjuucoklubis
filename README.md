@@ -34,7 +34,7 @@ You can only see my public repository⚡.
  
 <h3 align="left">Framework:</h3>
 <p align="left">
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png](https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png)" alt="expressjs" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png" alt="expressjs" width="40" height="40"/></a>
 
 
  
