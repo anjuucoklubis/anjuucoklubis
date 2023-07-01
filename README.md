@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjuucoklubis&label=Profile%20views&color=0e75b6&style=flat" alt="anjuucoklubis" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### About Me
+I am very interested and skilled in mobile and web software development. Strong entrepreneurial professional with Bachelor of Information Systems focus on Computer Software Engineering from Del Institute of Technology
 
 ### About My Repository
 I'm sory but this part of my repository is private,
