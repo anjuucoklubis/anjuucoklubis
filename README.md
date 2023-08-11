@@ -17,7 +17,7 @@ You can only see my public repository⚡.
 <!-- - web development 🤣 -->
 <!-- - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love to play music example is play a piano 😄 -->
-- 🔭 My Portfolio [Anju Lubis Portfolio](https://www.anjulubis.site/)
+- 🔭 My Portfolio [Anju Lubis Portfolio](https://www.anjulubis.vercel.app/)
 - 📫 How to reach me **anjuucoklubis@gmail.com**
 
 
